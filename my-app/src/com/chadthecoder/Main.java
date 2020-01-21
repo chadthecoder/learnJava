@@ -16,12 +16,13 @@ public class Main
         myCar.changePaintColor(Color.RED);
         System.out.println(myCar.paintColor);
 	     */
-
+        /*
         Scanner sc = new Scanner(System.in);
         int userNumber = sc.nextInt();
         System.out.println(userNumber);
         double userNumber2 = sc.nextDouble();
         System.out.println(userNumber2);
+        */
         /*
 	    System.out.println("Enter a word:"); //this is printed before accepting the input because it is before the sc.next()
 	    String userInput = sc.next();
@@ -31,5 +32,7 @@ public class Main
 	    System.out.println(firstCharacter);
 	    System.out.println("Contains: " + userInput.contains("Enter".toLowerCase()));
 	    */
+
+        int[] numbers  = new int[5];
     }
 }
